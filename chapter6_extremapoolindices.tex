@@ -1,0 +1,9 @@
+\begin{algorithmic}[1]
+	\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+	\renewcommand{\algorithmicensure}{\textbf{Output:}}
+	\REQUIRE $s$, $m$
+	\ENSURE $\alpha$
+	\STATE $p \leftarrow maxpool(\lvert s\rvert, m)$
+	\STATE $\alpha \leftarrow maxunpool(s(p), p, m)$
+	\RETURN $\alpha$
+\end{algorithmic}

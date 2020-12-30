@@ -1,0 +1,16 @@
+\begin{tabular}{l | c | c | c c c c | c c c c c | c c c c }
+	\toprule
+	\multirow{2}{*}{\diagbox{Dim, S2I}{Model}} & LeNet         & AlexNet       & \multicolumn{4}{c|}{VGGnet} & \multicolumn{5}{c|}{ResNet} & \multicolumn{4}{c}{DenseNet}                                                                                                                                                                 \\
+	& 2             & 5             & 11                          & 13                          & 16                           & 19            & 18            & 34            & 50            & 101           & 152           & 121           & 161           & 169           & 201           \\
+	\midrule
+	1D, none                                   & 72.6          & 78.8          & 76.9                        & \textbf{79.0}               & 79.5                         & \textbf{79.3} & 81.5          & 82.5          & 81.4          & 78.8          & 81.4          & 81.8          & \textbf{83.3} & 82.1          & 82.0          \\
+	\midrule
+	2D, signal as image                        & 67.9          & 68.3          & 74.1                        & 74.7                        & 72.7                         & 72.5          & 73.3          & 71.7          & 74.1          & 72.3          & 74.1          & 74.7          & 72.5          & 75.2          & 75.0          \\
+	\midrule
+	2D, spectrogram                            & 73.2          & 74.0          & 77.9                        & 76.3                        & 77.5                         & 76.0          & 76.2          & 79.0          & 77.2          & 74.6          & 75.3          & 74.1          & 75.2          & 77.0          & 75.4          \\
+	\midrule
+	2D, one layer CNN                          & \textbf{75.8} & \textbf{82.0} & \textbf{84.0}               & 77.9                        & 80.7                         & 78.4          & \textbf{85.1} & \textbf{84.6} & \textbf{83.0} & \textbf{85.0} & \textbf{83.3} & \textbf{84.3} & 80.7          & \textbf{85.0} & \textbf{85.3} \\
+	\midrule
+	2D, two layer CNN                          & 75.0          & 77.9          & 80.7                        & 78.8                        & \textbf{81.1}                & 74.9          & 78.3          & 80.0          & 78.3          & 77.1          & 80.9          & 83.2          & 82.3          & 79.0          & 79.1          \\
+	\bottomrule
+\end{tabular}

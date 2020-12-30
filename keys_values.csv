@@ -1,0 +1,4 @@
+key,value
+uci_epilepsy_supervised_accuracy,82.14
+mnist_supervised_accuracy,92.17
+fashionmnist_supervised_accuracy,83.95

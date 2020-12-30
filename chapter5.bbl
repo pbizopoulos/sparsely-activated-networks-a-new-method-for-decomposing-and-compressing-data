@@ -1,0 +1,139 @@
+\begin{thebibliography}{10}
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{rumelhart1986learning}
+David~E Rumelhart, Geoffrey~E Hinton, and Ronald~J Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em nature}, 323(6088):533, 1986.
+
+\bibitem{aboalayon2016sleep}
+Khald Aboalayon, Miad Faezipour, Wafaa Almuhammadi, and Saeid Moslehpour.
+\newblock Sleep stage classification using eeg signal analysis: a comprehensive
+  survey and new investigation.
+\newblock {\em Entropy}, 18(9):272, 2016.
+
+\bibitem{al2017review}
+Abeer Al-Nafjan, Manar Hosny, Yousef Al-Ohali, and Areej Al-Wabil.
+\newblock Review and classification of emotion recognition based on eeg
+  brain-computer interface system research: a systematic review.
+\newblock {\em Applied Sciences}, 7(12):1239, 2017.
+
+\bibitem{lotte1999electroencephalography}
+Fabien Lotte, Laurent Bougrain, and Maureen Clerc.
+\newblock Electroencephalography (eeg)-based brain--computer interfaces.
+\newblock {\em Wiley Encyclopedia of Electrical and Electronics Engineering},
+  pages 1--20, 1999.
+
+\bibitem{acharya2013automated}
+U~Rajendra Acharya, S~Vinitha Sree, G~Swapna, Roshan~Joy Martis, and Jasjit~S
+  Suri.
+\newblock Automated eeg analysis of epilepsy: a review.
+\newblock {\em Knowledge-Based Systems}, 45:147--165, 2013.
+
+\bibitem{yannick2019deep}
+Yannick Roy, Hubert Banville, Isabela Albuquerque, Alexandre Gramfort, Tiago~H
+  Falk, and Jocelyn Faubert.
+\newblock Deep learning-based electroencephalography analysis: a systematic
+  review.
+\newblock {\em Journal of neural engineering}, 2019.
+
+\bibitem{langkvist2012sleep}
+Martin L{\"a}ngkvist, Lars Karlsson, and Amy Loutfi.
+\newblock Sleep stage classification using unsupervised feature learning.
+\newblock {\em Advances in Artificial Neural Systems}, 2012:5, 2012.
+
+\bibitem{truong2018convolutional}
+Nhan~Duy Truong, Anh~Duy Nguyen, Levin Kuhlmann, Mohammad~Reza Bonyadi, Jiawei
+  Yang, Samuel Ippolito, and Omid Kavehei.
+\newblock Convolutional neural networks for seizure prediction using
+  intracranial and scalp electroencephalogram.
+\newblock {\em Neural Networks}, 105:104--111, 2018.
+
+\bibitem{khan2018focal}
+Haidar Khan, Lara Marcuse, Madeline Fields, Kalina Swann, and B{\"u}lent Yener.
+\newblock Focal onset seizure prediction using convolutional networks.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 65(9):2109--2118,
+  2018.
+
+\bibitem{zhang2017pattern}
+Jianhua Zhang, Sunan Li, and Rubin Wang.
+\newblock Pattern recognition of momentary mental workload based on
+  multi-channel electrophysiological data and ensemble convolutional neural
+  networks.
+\newblock {\em Frontiers in neuroscience}, 11:310, 2017.
+
+\bibitem{giri2016ischemic}
+Endang~Purnama Giri, Mohamad~Ivan Fanany, Aniati~Murni Arymurthy, and
+  Sastra~Kusuma Wijaya.
+\newblock Ischemic stroke identification based on eeg and eog using id
+  convolutional neural network and batch normalization.
+\newblock In {\em Advanced Computer Science and Information Systems (ICACSIS),
+  2016 International Conference on}, pages 484--491. IEEE, 2016.
+
+\bibitem{andrzejak2001indications}
+Ralph~G Andrzejak, Klaus Lehnertz, Florian Mormann, Christoph Rieke, Peter
+  David, and Christian~E Elger.
+\newblock Indications of nonlinear deterministic and finite-dimensional
+  structures in time series of brain electrical activity: Dependence on
+  recording region and brain state.
+\newblock {\em Physical Review E}, 64(6):061907, 2001.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, and Patrick Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{huang2017densely}
+Gao Huang, Zhuang Liu, Laurens Van Der~Maaten, and Kilian~Q Weinberger.
+\newblock Densely connected convolutional networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4700--4708, 2017.
+
+\bibitem{oppenheim1999discrete}
+Alan~V Oppenheim.
+\newblock {\em Discrete-time signal processing}.
+\newblock Pearson Education India, 1999.
+
+\bibitem{he2015delving}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Delving deep into rectifiers: Surpassing human-level performance on
+  imagenet classification.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 1026--1034, 2015.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{paszke2017automatic}
+Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary
+  DeVito, Zeming Lin, Alban Desmaison, Luca Antiga, and Adam Lerer.
+\newblock Automatic differentiation in pytorch.
+\newblock 2017.
+
+\bibitem{schirrmeister2017deep}
+Robin~Tibor Schirrmeister, Jost~Tobias Springenberg, Lukas Dominique~Josef
+  Fiederer, Martin Glasstetter, Katharina Eggensperger, Michael Tangermann,
+  Frank Hutter, Wolfram Burgard, and Tonio Ball.
+\newblock Deep learning with convolutional neural networks for eeg decoding and
+  visualization.
+\newblock {\em Human brain mapping}, 38(11):5391--5420, 2017.
+
+\end{thebibliography}

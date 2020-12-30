@@ -1,0 +1,25 @@
+\begin{algorithmic}[1]
+	\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+	\renewcommand{\algorithmicensure}{\textbf{Output:}}
+	\REQUIRE $\bm{x}$
+	\ENSURE $\bm{\alpha}$, $\bm{w}$
+	\\ \textit{Hyperparameters:  $m$, $\mu$, $\sigma$, $q$, $\phi$, $d$, $\lambda$, $epochs$, $batches$}
+	\FOR {$i$ = 1 to $q$}
+	\STATE $\bm{w}^{(i)} \sim \mathcal{N}(\mu, \sigma)$
+	\ENDFOR
+	\FOR {$e$ = 1 to $epochs$}
+	\FOR {$b$ = 1 to $batches$}
+	\STATE $\bm{x}^{(b)} \sim \bm{x}$
+	\FOR {$i$ = 1 to $q$}
+	\STATE $\bm{s}^{(i)} \leftarrow \bm{x}^{(b)} * \bm{w}^{(i)}$
+	\STATE $\bm{\alpha}^{(i)} \leftarrow \phi(\bm{s}^{(i)}, d^{(i)})$
+	\STATE $r^{(i)} \leftarrow \bm{\alpha}^{(i)} * \bm{w}^{(i)}$
+	\ENDFOR
+	\STATE $\hat{\bm{x}}^{(b)} \leftarrow \sum\limits_{i=1}^q r^{(i)}$
+	\STATE $\mathcal{L} \leftarrow \frac{1}{n}\sum\limits_{t=1}^n \lvert\hat{\bm{x}}^{(b)}_t - \bm{x}^{(b)}_t \rvert$
+	\STATE $\nabla\mathcal{L} = \left( \frac{\partial\mathcal{L}}{\partial\bm{w}^{(1)}},\ldots\frac{\partial\mathcal{L}}{\partial\bm{w}^{(q)}}\right)$
+	\STATE $\Delta\bm{w}^{(i)} = -\lambda\frac{\partial\mathcal{L}}{\partial\bm{w}^{(i)}}$
+	\ENDFOR
+	\ENDFOR
+	\RETURN $\bm{\alpha}$, $\bm{w}$
+\end{algorithmic}

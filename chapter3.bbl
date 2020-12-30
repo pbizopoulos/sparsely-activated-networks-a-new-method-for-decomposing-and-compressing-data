@@ -1,0 +1,533 @@
+\begin{thebibliography}{10}
+
+\bibitem{benjamin2017heart}
+Emelia~J Benjamin, Michael~J Blaha, Stephanie~E Chiuve, Mary Cushman, Sandeep~R
+  Das, Rajat Deo, Sarah~D de~Ferranti, James Floyd, Myriam Fornage, Cathleen
+  Gillespie, et~al.
+\newblock Heart disease and stroke statistics—2017 update: a report from the
+  american heart association.
+\newblock {\em Circulation}, 135(10):e146--e603, 2017.
+
+\bibitem{wilkins2017european}
+Elizabeth Wilkins, L~Wilson, Kremlin Wickramasinghe, Prachi Bhatnagar, Jose
+  Leal, Ramon Luengo-Fernandez, R~Burns, Mike Rayner, and Nick Townsend.
+\newblock European cardiovascular disease statistics 2017.
+\newblock 2017.
+
+\bibitem{johnson2016mimic}
+Alistair~EW Johnson, Tom~J Pollard, Lu~Shen, H~Lehman Li-wei, Mengling Feng,
+  Mohammad Ghassemi, Benjamin Moody, Peter Szolovits, Leo~Anthony Celi, and
+  Roger~G Mark.
+\newblock Mimic-iii, a freely accessible critical care database.
+\newblock {\em Scientific data}, 3:160035, 2016.
+
+\bibitem{kweon2014data}
+Sanghui Kweon, Yuna Kim, Myoung-jin Jang, Yoonjung Kim, Kirang Kim, Sunhye
+  Choi, Chaemin Chun, Young-Ho Khang, and Kyungwon Oh.
+\newblock Data resource profile: the korea national health and nutrition
+  examination survey (knhanes).
+\newblock {\em International journal of epidemiology}, 43(1):69--77, 2014.
+
+\bibitem{karlen2013multiparameter}
+Walter Karlen, Srinivas Raman, J~Mark Ansermino, and Guy~A Dumont.
+\newblock Multiparameter respiratory rate estimation from the
+  photoplethysmogram.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 60(7):1946--1953,
+  2013.
+
+\bibitem{nolle1986crei}
+FM~Nolle, FK~Badura, JM~Catlett, RW~Bowser, and MH~Sketch.
+\newblock Crei-gard, a new concept in computerized arrhythmia monitoring
+  systems.
+\newblock {\em Computers in Cardiology}, 13:515--518, 1986.
+
+\bibitem{moody1983new}
+George Moody.
+\newblock A new method for detecting atrial fibrillation using rr intervals.
+\newblock {\em Computers in Cardiology}, pages 227--230, 1983.
+
+\bibitem{baim1986survival}
+Donald~S Baim, Wilson~S Colucci, E~Scott Monrad, Harton~S Smith, Richard~F
+  Wright, Alyce Lanoue, Diane~F Gauthier, Bernard~J Ransil, William Grossman,
+  and Eugene Braunwald.
+\newblock Survival of patients with severe congestive heart failure treated
+  with oral milrinone.
+\newblock {\em Journal of the American College of Cardiology}, 7(3):661--670,
+  1986.
+
+\bibitem{goldberger2000physiobank}
+Ary~L Goldberger, Luis~AN Amaral, Leon Glass, Jeffrey~M Hausdorff, Plamen~Ch
+  Ivanov, Roger~G Mark, Joseph~E Mietus, George~B Moody, Chung-Kang Peng, and
+  H~Eugene Stanley.
+\newblock Physiobank, physiotoolkit, and physionet.
+\newblock {\em Circulation}, 101(23):e215--e220, 2000.
+
+\bibitem{petrutiu2007abrupt}
+Simona Petrutiu, Alan~V Sahakian, and Steven Swiryn.
+\newblock Abrupt changes in fibrillatory wave characteristics at the
+  termination of paroxysmal atrial fibrillation in humans.
+\newblock {\em Europace}, 9(7):466--470, 2007.
+
+\bibitem{jager2003long}
+Franc Jager, Alessandro Taddei, George~B Moody, Michele Emdin, G~Antoli{\v{c}},
+  Roman Dorn, Ales Smrdel, Carlo Marchesi, and Roger~G Mark.
+\newblock Long-term st database: a reference for the development and evaluation
+  of automated ischaemia detectors and for the study of the dynamics of
+  myocardial ischaemia.
+\newblock {\em Medical and Biological Engineering and Computing},
+  41(2):172--182, 2003.
+
+\bibitem{moody2001impact}
+George~B Moody and Roger~G Mark.
+\newblock The impact of the mit-bih arrhythmia database.
+\newblock {\em IEEE Engineering in Medicine and Biology Magazine},
+  20(3):45--50, 2001.
+
+\bibitem{moody1984noise}
+George~B Moody, W~Muldrow, and Roger~G Mark.
+\newblock A noise stress test for arrhythmia detectors.
+\newblock {\em Computers in cardiology}, 11(3):381--384, 1984.
+
+\bibitem{goldsmith1992comparison}
+Rochelle~L Goldsmith, J~Thomas Bigger, Richard~C Steinman, and Joseph~L Fleiss.
+\newblock Comparison of 24-hour parasympathetic activity in endurance-trained
+  and untrained young men.
+\newblock {\em Journal of the American College of Cardiology}, 20(3):552--558,
+  1992.
+
+\bibitem{iyengar1996age}
+Nikhil Iyengar, CK~Peng, Raymond Morin, Ary~L Goldberger, and Lewis~A Lipsitz.
+\newblock Age-related alterations in the fractal scaling of cardiac interbeat
+  interval dynamics.
+\newblock {\em American Journal of Physiology-Regulatory, Integrative and
+  Comparative Physiology}, 271(4):R1078--R1084, 1996.
+
+\bibitem{liu2016open}
+Chengyu Liu, David Springer, Qiao Li, Benjamin Moody, Ricardo~Abad Juan,
+  Francisco~J Chorro, Francisco Castells, Jos{\'e}~Millet Roig, Ikaro Silva,
+  Alistair~EW Johnson, et~al.
+\newblock An open access database for the evaluation of heart sound algorithms.
+\newblock {\em Physiological Measurement}, 37(12):2181, 2016.
+
+\bibitem{bousseljot1995nutzung}
+R~Bousseljot, D~Kreiseler, and A~Schnabel.
+\newblock Nutzung der ekg-signaldatenbank cardiodat der ptb {\"u}ber das
+  internet.
+\newblock {\em Biomedizinische Technik/Biomedical Engineering},
+  40(s1):317--318, 1995.
+
+\bibitem{laguna1997database}
+Pablo Laguna, Roger~G Mark, A~Goldberg, and George~B Moody.
+\newblock A database for evaluation of algorithms for measurement of qt and
+  other waveform intervals in the ecg.
+\newblock In {\em Computers in cardiology 1997}, pages 673--676. IEEE, 1997.
+
+\bibitem{greenwald1990improved}
+Scott~David Greenwald, Ramesh~S Patil, and Roger~G Mark.
+\newblock Improved detection and classification of arrhythmias in
+  noise-corrupted electrocardiograms using contextual information.
+\newblock In {\em Computers in Cardiology 1990, Proceedings.}, pages 461--464.
+  IEEE, 1990.
+
+\bibitem{silva2013noninvasive}
+Ikaro Silva, Joachim Behar, Reza Sameni, Tingting Zhu, Julien Oster, Gari~D
+  Clifford, and George~B Moody.
+\newblock Noninvasive fetal ecg: the physionet/computing in cardiology
+  challenge 2013.
+\newblock In {\em Computing in Cardiology Conference (CinC), 2013}, pages
+  149--152. IEEE, 2013.
+
+\bibitem{wu2017deepq}
+Meng-Hsi Wu and Edward~Y Chang.
+\newblock Deepq arrhythmia database: A large-scale dataset for arrhythmia
+  detector evaluation.
+\newblock In {\em Proceedings of the 2nd International Workshop on Multimedia
+  for Personal Health and Health Care}, pages 77--80. ACM, 2017.
+
+\bibitem{choi2016using}
+Edward Choi, Andy Schuetz, Walter~F Stewart, and Jimeng Sun.
+\newblock Using recurrent neural network models for early detection of heart
+  failure onset.
+\newblock {\em Journal of the American Medical Informatics Association},
+  24(2):361--370, 2016.
+
+\bibitem{hsiao2016deep}
+Han~CW Hsiao, Sean~HF Chen, and Jeffrey~JP Tsai.
+\newblock Deep learning for risk analysis of specific cardiovascular diseases
+  using environmental data and outpatient records.
+\newblock In {\em Bioinformatics and Bioengineering (BIBE), 2016 IEEE 16th
+  International Conference on}, pages 369--372. IEEE, 2016.
+
+\bibitem{gopalswamy2017deep}
+Shruthi Gopalswamy, Patrick~J Tighe, and Parisa Rashidi.
+\newblock Deep recurrent neural networks for predicting intraoperative and
+  postoperative outcomes and trends.
+\newblock In {\em Biomedical \& Health Informatics (BHI), 2017 IEEE EMBS
+  International Conference on}, pages 361--364. IEEE, 2017.
+
+\bibitem{purushotham2018benchmarking}
+Sanjay Purushotham, Chuizheng Meng, Zhengping Che, and Yan Liu.
+\newblock Benchmarking deep learning models on large healthcare datasets.
+\newblock {\em Journal of biomedical informatics}, 83:112--134, 2018.
+
+\bibitem{kim2017highrisk}
+You~Jin Kim, Yun-Geun Lee, Jeong~Whun Kim, Jin~Joo Park, Borim Ryu, and
+  Jung-Woo Ha.
+\newblock Highrisk prediction from electronic medical records via deep
+  attention networks.
+\newblock {\em arXiv preprint arXiv:1712.00010}, 2017.
+
+\bibitem{kim2017statistics}
+Jaekwon Kim, Ungu Kang, and Youngho Lee.
+\newblock Statistics and deep belief network-based cardiovascular risk
+  prediction.
+\newblock {\em Healthcare informatics research}, 23(3):169--175, 2017.
+
+\bibitem{huang2018regularized}
+Zhengxing Huang, Wei Dong, Huilong Duan, and Jiquan Liu.
+\newblock A regularized deep learning approach for clinical risk prediction of
+  acute coronary syndrome using electronic health records.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 65(5):956--968,
+  2018.
+
+\bibitem{polley2010super}
+Eric~C Polley and Mark~J Van Der~Laan.
+\newblock Super learner in prediction.
+\newblock 2010.
+
+\bibitem{faziludeen2013ecg}
+Shameer Faziludeen and PV~Sabiq.
+\newblock Ecg beat classification using wavelets and svm.
+\newblock In {\em Information \& Communication Technologies (ICT), 2013 IEEE
+  Conference on}, pages 815--818. IEEE, 2013.
+
+\bibitem{kiranyaz2016real}
+Serkan Kiranyaz, Turker Ince, and Moncef Gabbouj.
+\newblock Real-time patient-specific ecg classification by 1-d convolutional
+  neural networks.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 63(3):664--675,
+  2016.
+
+\bibitem{isin2017cardiac}
+Ali Isin and Selen Ozdalili.
+\newblock Cardiac arrhythmia detection using deep learning.
+\newblock {\em Procedia Computer Science}, 120:268--275, 2017.
+
+\bibitem{wu2016novel}
+Zhiyong Wu, Xiangqian Ding, Guangrui Zhang, Xiaowei Xu, Xiaodong Wang, Ye~Tao,
+  and Chuanxiang Ju.
+\newblock A novel features learning method for ecg arrhythmias using deep
+  belief networks.
+\newblock In {\em Digital Home (ICDH), 2016 6th International Conference on},
+  pages 192--196. IEEE, 2016.
+
+\bibitem{zubair2016automated}
+Muhammad Zubair, Jinsul Kim, and Changwoo Yoon.
+\newblock An automated ecg beat classification system using convolutional
+  neural networks.
+\newblock In {\em IT Convergence and Security (ICITCS), 2016 6th International
+  Conference on}, pages 1--5. IEEE, 2016.
+
+\bibitem{li2017classification}
+Dan Li, Jianxin Zhang, Qiang Zhang, and Xiaopeng Wei.
+\newblock Classification of ecg signals based on 1d convolution neural network.
+\newblock In {\em e-Health Networking, Applications and Services (Healthcom),
+  2017 IEEE 19th International Conference on}, pages 1--6. IEEE, 2017.
+
+\bibitem{luo2017patient}
+Kan Luo, Jianqing Li, Zhigang Wang, and Alfred Cuschieri.
+\newblock Patient-specific deep architectural model for ecg classification.
+\newblock {\em Journal of healthcare engineering}, 2017, 2017.
+
+\bibitem{jiang2017heartbeat}
+Chaoyan Jiang, Shuang Song, and Max Q-H Meng.
+\newblock Heartbeat classification system based on modified stacked denoising
+  autoencoders and neural networks.
+\newblock In {\em Information and Automation (ICIA), 2017 IEEE International
+  Conference on}, pages 511--516. IEEE, 2017.
+
+\bibitem{yang2017novel}
+Jianli Yang, Yang Bai, Feng Lin, Ming Liu, Zengguang Hou, and Xiuling Liu.
+\newblock A novel electrocardiogram arrhythmia classification method based on
+  stacked sparse auto-encoders and softmax regression.
+\newblock {\em International Journal of Machine Learning and Cybernetics},
+  pages 1--8, 2017.
+
+\bibitem{badnjevic2017inspection}
+Almir Badnjevi{\'c}, Mario Cifrek, Ratko Magjarevi{\'c}, and Zijad
+  D{\v{z}}emi{\'c}.
+\newblock {\em Inspection of Medical Devices: For Regulatory Purposes}.
+\newblock Springer, 2017.
+
+\bibitem{pan1985real}
+Jiapu Pan and Willis~J Tompkins.
+\newblock A real-time qrs detection algorithm.
+\newblock {\em IEEE transactions on biomedical engineering}, (3):230--236,
+  1985.
+
+\bibitem{wu2018personalizing}
+Meng-Hsi Wu, Emily~J Chang, and Tzu-Hsuan Chu.
+\newblock Personalizing a generic ecg heartbeat classification for arrhythmia
+  detection: A deep learning approach.
+\newblock In {\em 2018 IEEE Conference on Multimedia Information Processing and
+  Retrieval (MIPR)}, pages 92--99. IEEE, 2018.
+
+\bibitem{hannun2019cardiologist}
+Awni~Y Hannun, Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey~H Tison, Codie
+  Bourn, Mintu~P Turakhia, and Andrew~Y Ng.
+\newblock Cardiologist-level arrhythmia detection and classification in
+  ambulatory electrocardiograms using a deep neural network.
+\newblock {\em Nature medicine}, 25(1):65, 2019.
+
+\bibitem{acharya2017automateda}
+U~Rajendra Acharya, Hamido Fujita, Oh~Shu Lih, Yuki Hagiwara, Jen~Hong Tan, and
+  Muhammad Adam.
+\newblock Automated detection of arrhythmias using different intervals of
+  tachycardia ecg segments with convolutional neural network.
+\newblock {\em Information sciences}, 405:81--90, 2017.
+
+\bibitem{acharya2018automated}
+U~Rajendra Acharya, Hamido Fujita, Shu~Lih Oh, U~Raghavendra, Jen~Hong Tan,
+  Muhammad Adam, Arkadiusz Gertych, and Yuki Hagiwara.
+\newblock Automated identification of shockable and non-shockable
+  life-threatening ventricular arrhythmias using convolutional neural network.
+\newblock {\em Future Generation Computer Systems}, 79:952--959, 2018.
+
+\bibitem{acharya2017automatedb}
+U~Rajendra Acharya, Hamido Fujita, Oh~Shu Lih, Muhammad Adam, Jen~Hong Tan, and
+  Chua~Kuang Chua.
+\newblock Automated detection of coronary artery disease using different
+  durations of ecg segments with convolutional neural network.
+\newblock {\em Knowledge-Based Systems}, 132:62--71, 2017.
+
+\bibitem{acharya2018deep}
+U~Rajendra Acharya, Hamido Fujita, Shu~Lih Oh, Yuki Hagiwara, Jen~Hong Tan,
+  Muhammad Adam, and Ru~San Tan.
+\newblock Deep convolutional neural network for the automated diagnosis of
+  congestive heart failure using ecg signals.
+\newblock {\em Applied Intelligence}, pages 1--12, 2018.
+
+\bibitem{acharya2017application}
+U~Rajendra Acharya, Hamido Fujita, Shu~Lih Oh, Yuki Hagiwara, Jen~Hong Tan, and
+  Muhammad Adam.
+\newblock Application of deep convolutional neural network for automated
+  detection of myocardial infarction using ecg signals.
+\newblock {\em Information Sciences}, 415:190--198, 2017.
+
+\bibitem{xiong2015denoising}
+Peng Xiong, Hongrui Wang, Ming Liu, and Xiuling Liu.
+\newblock Denoising autoencoder for eletrocardiogram signal enhancement.
+\newblock {\em Journal of Medical Imaging and Health Informatics},
+  5(8):1804--1810, 2015.
+
+\bibitem{taji2017false}
+Bahareh Taji, Adrian~DC Chan, and Shervin Shirmohammadi.
+\newblock False alarm reduction in atrial fibrillation detection using deep
+  belief networks.
+\newblock {\em IEEE Transactions on Instrumentation and Measurement}, 2017.
+
+\bibitem{schwab2017beat}
+Patrick Schwab, Gaetano~C Scebba, Jia Zhang, Marco Delai, and Walter Karlen.
+\newblock Beat by beat: Classifying cardiac arrhythmias with recurrent neural
+  networks.
+\newblock {\em Computing}, 44:1, 2017.
+
+\bibitem{yao2017atrial}
+Zhenjie Yao, Zhiyong Zhu, and Yixin Chen.
+\newblock Atrial fibrillation detection by multi-scale convolutional neural
+  networks.
+\newblock In {\em Information Fusion (Fusion), 2017 20th International
+  Conference on}, pages 1--6. IEEE, 2017.
+
+\bibitem{xia2018detecting}
+Yong Xia, Naren Wulan, Kuanquan Wang, and Henggui Zhang.
+\newblock Detecting atrial fibrillation by deep convolutional neural networks.
+\newblock {\em Computers in biology and medicine}, 93:84--92, 2018.
+
+\bibitem{andersen2018deep}
+Rasmus~S Andersen, Abdolrahman Peimankar, and Sadasivan Puthusserypady.
+\newblock A deep learning approach for real-time detection of atrial
+  fibrillation.
+\newblock {\em Expert Systems with Applications}, 2018.
+
+\bibitem{xiao2018monitoring}
+Ran Xiao, Yuan Xu, Michele~M Pelter, Richard Fidler, Fabio Badilini, David~W
+  Mortara, and Xiao Hu.
+\newblock Monitoring significant st changes through deep learning.
+\newblock {\em Journal of electrocardiology}, 2018.
+
+\bibitem{al2016deep}
+Mohamad~M Al~Rahhal, Yakoub Bazi, Haikel AlHichri, Naif Alajlan, Farid Melgani,
+  and Ronald~R Yager.
+\newblock Deep learning approach for active classification of electrocardiogram
+  signals.
+\newblock {\em Information Sciences}, 345:340--354, 2016.
+
+\bibitem{abrishami2018p}
+Hedayat Abrishami, Matthew Campbell, Chia Han, Richard Czosek, and Xuefu Zhou.
+\newblock P-qrs-t localization in ecg using deep learning.
+\newblock In {\em Biomedical \& Health Informatics (BHI), 2018 IEEE EMBS
+  International Conference on}, pages 210--213. IEEE, 2018.
+
+\bibitem{wu2016myocardial}
+JF~Wu, YL~Bao, Shing-Chow Chan, HC~Wu, L~Zhang, and Xi-Guang Wei.
+\newblock Myocardial infarction detection and classification - a new
+  multi-scale deep feature learning approach.
+\newblock In {\em Digital Signal Processing (DSP), 2016 IEEE International
+  Conference on}, pages 309--313. IEEE, 2016.
+
+\bibitem{hwang2018deep}
+Bosun Hwang, Jiwoo You, Thomas Vaessen, Inez Myin-Germeys, Cheolsoo Park, and
+  Byoung-Tak Zhang.
+\newblock Deep ecgnet: An optimal deep learning framework for monitoring mental
+  stress using ultra short-term ecg signals.
+\newblock {\em TELEMEDICINE and e-HEALTH}, 2018.
+
+\bibitem{reasat2017detection}
+Tahsin Reasat and Celia Shahnaz.
+\newblock Detection of inferior myocardial infarction using shallow
+  convolutional neural networks.
+\newblock In {\em Humanitarian Technology Conference (R10-HTC), 2017 IEEE
+  Region 10}, pages 718--721. IEEE, 2017.
+
+\bibitem{zhong2018deep}
+Wei Zhong, Lijuan Liao, Xuemei Guo, and Guoli Wang.
+\newblock A deep learning approach for fetal qrs complex detection.
+\newblock {\em Physiological measurement}, 39(4):045004, 2018.
+
+\bibitem{ripoll2016ecg}
+Vicent J~Ribas Ripoll, Anna Wojdel, Enrique Romero, Pablo Ramos, and Josep
+  Brugada.
+\newblock Ecg assessment based on neural networks with pretraining.
+\newblock {\em Applied Soft Computing}, 49:399--406, 2016.
+
+\bibitem{jin2017classification}
+Linpeng Jin and Jun Dong.
+\newblock Classification of normal and abnormal ecg records using lead
+  convolutional neural network and rule inference.
+\newblock {\em Science China Information Sciences}, 60(7):078103, 2017.
+
+\bibitem{liu2018detecting}
+Yixiu Liu, Yujuan Huang, Jianyi Wang, Li~Liu, and Jiajia Luo.
+\newblock Detecting premature ventricular contraction in children with deep
+  learning.
+\newblock {\em Journal of Shanghai Jiaotong University (Science)},
+  23(1):66--73, 2018.
+
+\bibitem{rubin2017recognizing}
+Jonathan Rubin, Rui Abreu, Anurag Ganguli, Saigopal Nelaturi, Ion Matei, and
+  Kumar Sricharan.
+\newblock Recognizing abnormal heart sounds using deep learning.
+\newblock {\em arXiv preprint arXiv:1707.04642}, 2017.
+
+\bibitem{kucharski2017deep}
+Dariusz Kucharski, Dominik Grochala, Marcin Kajor, and Eliasz Ka{\'n}toch.
+\newblock A deep learning approach for valve defect recognition in heart
+  acoustic signal.
+\newblock In {\em International Conference on Information Systems Architecture
+  and Technology}, pages 3--14. Springer, 2017.
+
+\bibitem{dominguez2018deep}
+Juan~P Dominguez-Morales, Angel~F Jimenez-Fernandez, Manuel~J
+  Dominguez-Morales, and Gabriel Jimenez-Moreno.
+\newblock Deep neural networks for the recognition and classification of heart
+  murmurs using neuromorphic auditory sensors.
+\newblock {\em IEEE transactions on biomedical circuits and systems},
+  12(1):24--34, 2018.
+
+\bibitem{jimenez2017binaural}
+Angel Jim{\'e}nez-Fern{\'a}ndez, Elena Cerezuela-Escudero, Lourdes
+  Mir{\'o}-Amarante, Manuel~Jesus Dom{\'\i}nguez-Morales, Francisco
+  Gomez-Rodriguez, Alejandro Linares-Barranco, and Gabriel Jim{\'e}nez-Moreno.
+\newblock A binaural neuromorphic auditory sensor for fpga: A spike signal
+  processing approach.
+\newblock {\em IEEE Trans. Neural Netw. Learning Syst.}, 28(4):804--818, 2017.
+
+\bibitem{potes2016ensemble}
+Cristhian Potes, Saman Parvaneh, Asif Rahman, and Bryan Conroy.
+\newblock Ensemble of feature-based and deep learning-based classifiers for
+  detection of abnormal heart sounds.
+\newblock In {\em Computing in Cardiology Conference (CinC), 2016}, pages
+  621--624. IEEE, 2016.
+
+\bibitem{ryu2016classification}
+Heechang Ryu, Jinkyoo Park, and Hayong Shin.
+\newblock Classification of heart sound recordings using convolution neural
+  network.
+\newblock In {\em Computing in Cardiology Conference (CinC), 2016}, pages
+  1153--1156. IEEE, 2016.
+
+\bibitem{chen2017s1}
+Tien-En Chen, Shih-I Yang, Li-Ting Ho, Kun-Hsi Tsai, Yu-Hsuan Chen, Yun-Fan
+  Chang, Ying-Hui Lai, Syu-Siang Wang, Yu~Tsao, and Chau-Chung Wu.
+\newblock S1 and s2 heart sound recognition using deep neural networks.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 64(2):372--380,
+  2017.
+
+\bibitem{pan2017variation}
+Fan Pan, Peiyu He, Chengyu Liu, Taiyong Li, Alan Murray, and Dingchang Zheng.
+\newblock Variation of the korotkoff stethoscope sounds during blood pressure
+  measurement: Analysis using a convolutional neural network.
+\newblock {\em IEEE journal of biomedical and health informatics},
+  21(6):1593--1598, 2017.
+
+\bibitem{shashikumar2017deep}
+Supreeth~Prajwal Shashikumar, Amit~J Shah, Qiao Li, Gari~D Clifford, and Shamim
+  Nemati.
+\newblock A deep learning approach to monitoring and detecting atrial
+  fibrillation using wearable technology.
+\newblock In {\em Biomedical \& Health Informatics (BHI), 2017 IEEE EMBS
+  International Conference on}, pages 141--144. IEEE, 2017.
+
+\bibitem{everly2012clinical}
+George~S Everly~Jr and Jeffrey~M Lating.
+\newblock {\em A clinical guide to the treatment of the human stress response}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{lee2017deepa}
+Soojeong Lee and Joon-Hyuk Chang.
+\newblock Deep learning ensemble with asymptotic techniques for oscillometric
+  blood pressure estimation.
+\newblock {\em Computer methods and programs in biomedicine}, 151:1--13, 2017.
+
+\bibitem{lee2017oscillometric}
+Soojeong Lee and Joon~Hyuk Chang.
+\newblock Oscillometric blood pressure estimation based on deep learning.
+\newblock {\em IEEE Transactions on Industrial Informatics}, 13(2):461--472,
+  2017.
+
+\bibitem{lee2017deepc}
+Soojeong Lee and Joon-Hyuk Chang.
+\newblock Deep belief networks ensemble for blood pressure estimation.
+\newblock {\em IEEE Access}, 5:9962--9972, 2017.
+
+\bibitem{lee2017deepd}
+Soojeong Lee and Joon~Hyuk Chang.
+\newblock Deep boltzmann regression with mimic features for oscillometric blood
+  pressure estimation.
+\newblock {\em IEEE Sensors Journal}, 17(18):5982--5993, 2017.
+
+\bibitem{gotlibovych2018end}
+Igor Gotlibovych, Stuart Crawford, Dileep Goyal, Jiaqi Liu, Yaniv Kerem, David
+  Benaron, Defne Yilmaz, Gregory Marcus, and Yihan Li.
+\newblock End-to-end deep learning from raw sensor data: Atrial fibrillation
+  detection using wearables.
+\newblock {\em arXiv preprint arXiv:1807.10707}, 2018.
+
+\bibitem{poh2018diagnostic}
+Ming-Zher Poh, Yukkee~Cheung Poh, Pak-Hei Chan, Chun-Ka Wong, Louise Pun,
+  Wangie Wan-Chiu Leung, Yu-Fai Wong, Michelle Man-Ying Wong, Daniel Wai-Sing
+  Chu, and Chung-Wah Siu.
+\newblock Diagnostic assessment of a deep learning system for detecting atrial
+  fibrillation in pulse waveforms.
+\newblock {\em Heart}, pages heartjnl--2018, 2018.
+
+\bibitem{ballinger2018deepheart}
+Brandon Ballinger, Johnson Hsieh, Avesh Singh, Nimit Sohoni, Jack Wang,
+  Geoffrey~H Tison, Gregory~M Marcus, Jose~M Sanchez, Carol Maguire, Jeffrey~E
+  Olgin, et~al.
+\newblock Deepheart: Semi-supervised sequence learning for cardiovascular risk
+  prediction.
+\newblock {\em arXiv preprint arXiv:1802.02511}, 2018.
+
+\end{thebibliography}

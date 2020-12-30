@@ -1,0 +1,27 @@
+\begin{algorithmic}[1]
+	\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+	\renewcommand{\algorithmicensure}{\textbf{Output:}}
+	\REQUIRE $s$, $med$
+	\ENSURE $\alpha$
+	\STATE $peaks \leftarrow \left(\frac{d s}{d t}^+ \geq 0\right) \land \left(\frac{d s}{d t}^- < 0\right)$
+	\STATE $valleys \leftarrow \left(\frac{d s}{d t}^+ < 0\right) \land \left(\frac{d s}{d t}^- \geq 0\right)$ \\
+	\textit{\scriptsize \# + and - denote one sample padding to the right and left respectively}
+	\STATE $z = peaks \lor valleys$
+	\STATE $p_i \leftarrow z > 0$
+	\STATE $p_{i_i} \leftarrow sort(z)$
+	\STATE $p_{i_{sorted}} \leftarrow p_i(p_{i_i})$
+	\STATE $q_i \leftarrow 0, i=1\ldots card(s)$
+	\FOR {$i$ = 0 to $card(s)$}
+	\IF {$\lnot q_i$}
+	\STATE $p_{i_r} \leftarrow p_i \geq p_{i_i} - med$
+	\STATE $p_{i_l} \leftarrow p_i \leq p_{i_i} + med$
+	\STATE $p_{i_m} \leftarrow p_{i_r} \land p_{i_l}$
+	\STATE $q \leftarrow q \lor p_{i_m}$
+	\STATE $q_i \leftarrow 0$
+	\ENDIF
+	\ENDFOR
+	\STATE $\alpha_{ind} \leftarrow p_{i_{sorted}}(\lnot q)$
+	\STATE $\alpha_i \leftarrow 0, i=1\ldots card(s)$
+	\STATE $\alpha(\alpha_i) \leftarrow s(\alpha_{ind})$
+	\RETURN $\alpha$
+\end{algorithmic}

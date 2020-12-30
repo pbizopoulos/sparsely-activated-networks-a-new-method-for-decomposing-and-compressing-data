@@ -1,0 +1,61 @@
+\begin{scope}[tdplot_main_coords, canvas is yz plane at x=-0.5,xscale=-1, transform shape]
+	\node[opacity=0] at (0, 0)(input){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_signal"}};
+	\node[opacity=0, draw, right=0.5cm of input, circle] (loss){$\mathcal{L}$};
+	\node[opacity=0, right=0.5cm of loss] (reconstructed){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_reconstructed"}};
+	\node[opacity=0, draw, below=0.5cm of reconstructed, circle] (plus){$+$};
+	\node[opacity=0.8, below=0.5cm of plus] (reconstruction){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_reconstruction_0"}};
+	\node[opacity=0, draw, below=0.5cm of reconstruction, circle] (conv2){$\ast$};
+	\node[] at (4.8, -3.4){$\bm{r}^{(0)}$};
+	\node[opacity=0.8, below=0.5cm of conv2] (extrema){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_activations_0"}};
+	\node[opacity=0, draw, left=0.55cm of extrema, circle] (phi){$\phi$};
+	\node[] at (4.8, -7.4){$\bm{\alpha}^{(0)}$};
+	\node[opacity=0.8, left=0.55cm of phi] (similarity){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_similarity_0"}};
+	\node[] at (0.1, -7.4){$\bm{s}^{(0)}$};
+	\node[left=1.5cm of conv2] (kernel){\includegraphics[scale=0.1]{"images_1d/UCI-epilepsy_extrema_1d_2_kernel_0"}};
+	\node[] at (2.6, -5.6){\tiny $\bm{w}^{(0)}$};
+	\node[opacity=0, draw, above=0.5cm of similarity, circle] (conv1){$\ast$};
+\end{scope}
+\begin{scope}[tdplot_main_coords, canvas is yz plane at x=0,xscale=-1, transform shape]
+	\node[] at (0, 0)(input){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_signal"}};
+	\node[] at (0.1, 0.7){$\bm{x}$};
+	\node[draw, right=0.5cm of input, circle] (loss){$\mathcal{L}$};
+	\node[right=0.5cm of loss] (reconstructed){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_reconstructed"}};
+	\node[] at (4.8, 0.7){$\hat{\bm{x}}$};
+	\node[draw, below=0.5cm of reconstructed, circle] (plus){$+$};
+	\node[opacity=0, below=0.5cm of plus] (reconstruction){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_reconstruction_0"}};
+	\node[draw, below=0.5cm of reconstruction, circle] (conv2){$\ast$};
+	\node[opacity=0, below=0.5cm of conv2] (extrema){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_activations_0"}};
+	\node[draw, left=0.55cm of extrema, circle, inner sep=2pt] (phi){$\phi$};
+	\node[opacity=0, left=0.55cm of phi] (similarity){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_similarity_0"}};
+	\node[opacity=0, left=1.5cm of conv2] (kernel){\includegraphics[scale=0.1]{"images_1d/UCI-epilepsy_extrema_1d_2_kernel_0"}};
+	\node[draw, above=0.5cm of similarity, circle] (conv1){$\ast$};
+	\draw[->](input) -- node{} (conv1);
+	\draw[->](conv1) -- node{} (similarity);
+	\draw[->](similarity) -- node{} (phi);
+	\draw[->](phi) -- node{} (extrema);
+	\draw[->](extrema) -- node{} (conv2);
+	\draw[->](conv2) -- node{} (reconstruction);
+	\draw[->](reconstruction) -- node{} (plus);
+	\draw[->](plus) -- node{} (reconstructed);
+	\draw[->](kernel) -- node{} (conv1);
+	\draw[->](kernel) -- node{} (conv2);
+	\draw[->](input) -- node{} (loss);
+	\draw[->](reconstructed) -- node{} (loss);
+\end{scope}
+\begin{scope}[tdplot_main_coords, canvas is yz plane at x=0.5,xscale=-1, transform shape]
+	\node[opacity=0] at (0, 0)(input){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_signal"}};
+	\node[opacity=0, draw, right=0.5cm of input, circle] (loss){$\mathcal{L}$};
+	\node[opacity=0, right=0.5cm of loss] (reconstructed){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_reconstructed"}};
+	\node[opacity=0, draw, below=0.5cm of reconstructed, circle] (plus){$+$};
+	\node[opacity=0.8, below=0.5cm of plus] (reconstruction){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_reconstruction_1"}};
+	\node[] at (4.8, -3.4){$\bm{r}^{(1)}$};
+	\node[opacity=0, draw, below=0.5cm of reconstruction, circle] (conv2){$\ast$};
+	\node[opacity=0.8, below=0.5cm of conv2] (extrema){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_activations_1"}};
+	\node[] at (4.8, -7.4){$\bm{\alpha}^{(1)}$};
+	\node[opacity=0, draw, left=0.55cm of extrema, circle] (phi){$\phi$};
+	\node[opacity=0.8, left=0.55cm of phi] (similarity){\includegraphics[scale=\figscale]{"images_1d/UCI-epilepsy_extrema_1d_2_similarity_1"}};
+	\node[] at (0.1, -7.4){$\bm{s}^{(1)}$};
+	\node[left=1.5cm of conv2] (kernel){\includegraphics[scale=0.1]{"images_1d/UCI-epilepsy_extrema_1d_2_kernel_1"}};
+	\node[] at (2.6, -5.6){\tiny $\bm{w}^{(1)}$};
+	\node[opacity=0, draw, above=0.5cm of similarity, circle] (conv1){$\ast$};
+\end{scope}

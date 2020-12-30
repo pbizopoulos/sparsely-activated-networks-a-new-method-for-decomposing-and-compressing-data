@@ -1,0 +1,15 @@
+\begin{tikzpicture}[]
+	\node[circle, draw=white] (x1) at (0, 4) {$x_1$};
+	\node at (0, 3) {$\vdots$};
+	\node[circle, draw=white] (xj) at (0, 2) {$x_j$};
+	\node at (0, 1) {$\vdots$};
+	\node[circle, draw=white] (xn) at (0, 0) {$x_n$};
+	\node[circle, draw=white] (b) at (4, 4) {$b$};
+	\node[circle, draw=black] (sigma) at (4, 2) {$\phi$};
+	\node[circle, draw=white] (output) at (6, 2) {$\alpha$};
+	\draw[->] (x1) to node[above]{$w_1$} (sigma);
+	\draw[->] (xj) to node[above]{$w_j$} (sigma);
+	\draw[->] (xn) to node[above]{$w_n$} (sigma);
+	\draw[->] (b) -- (sigma);
+	\draw[->] (sigma) -- (output);
+\end{tikzpicture}

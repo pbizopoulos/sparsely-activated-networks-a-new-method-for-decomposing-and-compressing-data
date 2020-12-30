@@ -1,0 +1,107 @@
+\begin{thebibliography}{10}
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{ronneberger2015u}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 234--241. Springer, 2015.
+
+\bibitem{collobert2008unified}
+Ronan Collobert and Jason Weston.
+\newblock A unified architecture for natural language processing: Deep neural
+  networks with multitask learning.
+\newblock In {\em Proceedings of the 25th international conference on Machine
+  learning}, pages 160--167. ACM, 2008.
+
+\bibitem{graves2013speech}
+Alex Graves, Abdel-rahman Mohamed, and Geoffrey Hinton.
+\newblock Speech recognition with deep recurrent neural networks.
+\newblock In {\em Acoustics, speech and signal processing (icassp), 2013 ieee
+  international conference on}, pages 6645--6649. IEEE, 2013.
+
+\bibitem{alipanahi2015predicting}
+Babak Alipanahi, Andrew Delong, Matthew~T Weirauch, and Brendan~J Frey.
+\newblock Predicting the sequence specificities of dna-and rna-binding proteins
+  by deep learning.
+\newblock {\em Nature biotechnology}, 33(8):831, 2015.
+
+\bibitem{bengio2007scaling}
+Yoshua Bengio, Yann LeCun, et~al.
+\newblock Scaling learning algorithms towards ai.
+\newblock {\em Large-scale kernel machines}, 34(5):1--41, 2007.
+
+\bibitem{rosenblatt1958perceptron}
+Frank Rosenblatt.
+\newblock The perceptron: a probabilistic model for information storage and
+  organization in the brain.
+\newblock {\em Psychological review}, 65(6):386, 1958.
+
+\bibitem{rumelhart1986learning}
+David~E Rumelhart, Geoffrey~E Hinton, and Ronald~J Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em nature}, 323(6088):533, 1986.
+
+\bibitem{goodfellow2016deep}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}, volume~1.
+\newblock MIT press Cambridge, 2016.
+
+\bibitem{glorot2011deep}
+Xavier Glorot, Antoine Bordes, and Yoshua Bengio.
+\newblock Deep sparse rectifier neural networks.
+\newblock In {\em Proceedings of the fourteenth international conference on
+  artificial intelligence and statistics}, pages 315--323, 2011.
+
+\bibitem{hanley1982meaning}
+James~A Hanley and Barbara~J McNeil.
+\newblock The meaning and use of the area under a receiver operating
+  characteristic (roc) curve.
+\newblock {\em Radiology}, 143(1):29--36, 1982.
+
+\bibitem{dice1945measures}
+Lee~R Dice.
+\newblock Measures of the amount of ecologic association between species.
+\newblock {\em Ecology}, 26(3):297--302, 1945.
+
+\bibitem{hornik1989multilayer}
+Kurt Hornik, Maxwell Stinchcombe, and Halbert White.
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock {\em Neural networks}, 2(5):359--366, 1989.
+
+\bibitem{hinton2006fast}
+Geoffrey~E Hinton, Simon Osindero, and Yee-Whye Teh.
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural computation}, 18(7):1527--1554, 2006.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{szegedy2015going}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir
+  Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1--9, 2015.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{vincent2010stacked}
+Pascal Vincent, Hugo Larochelle, Isabelle Lajoie, Yoshua Bengio, and
+  Pierre-Antoine Manzagol.
+\newblock Stacked denoising autoencoders: Learning useful representations in a
+  deep network with a local denoising criterion.
+\newblock {\em Journal of Machine Learning Research}, 11(Dec):3371--3408, 2010.
+
+\end{thebibliography}

@@ -1,0 +1,12 @@
+\begin{algorithmic}[1]
+	\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+	\renewcommand{\algorithmicensure}{\textbf{Output:}}
+	\REQUIRE $s$, $k$
+	\ENSURE $\alpha$
+	\STATE $\alpha_i \leftarrow 0, i=1\ldots card(s)$
+	\STATE $p \leftarrow topk(\lvert s\rvert, k)$
+	\FOR {$i$ = 0 to $card(s)$}
+	\STATE $\alpha_i(p_i) = s_i(p_i)$
+	\ENDFOR
+	\RETURN $\alpha$
+\end{algorithmic}
