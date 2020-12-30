@@ -1,4 +1,4 @@
-name: test-draft-version-document
+name: test-document
 on: [push, pull_request]
 jobs:
   make:
