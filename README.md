@@ -7,7 +7,6 @@
 This repository contains the code that generates **Sparsely Activated Networks: A new method for decomposing and compressing data**.
 
 ## Requirements
-- [POSIX-oriented operating system](https://en.wikipedia.org/wiki/POSIX#POSIX-oriented_operating_systems)
 - [Docker](https://docs.docker.com/get-docker/)
 - [Make](https://www.gnu.org/software/make/)
 
@@ -16,6 +15,6 @@ This repository contains the code that generates **Sparsely Activated Networks: 
 2. `cd sparsely-activated-networks-a-new-method-for-decomposing-and-compressing-data/`
 3. `sudo systemctl start docker`
 4. make options
-    * `make`                      # Generate the document.
-    * `make tmp/presentation.pdf` # Generate the presentation.
-    * `make clean`                # Remove the tmp/ directory.
+    - `make` # Generate the document.
+    - `make tmp/presentation.pdf` # Generate the presentation.
+    - `make clean` # Remove the tmp/ directory.
